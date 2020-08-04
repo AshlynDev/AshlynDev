@@ -1,3 +1,5 @@
+## <img src="https://github.com/BennoCraft/BennoCraft/img/programming.gif" width="30">  About 
+
 
 ## 📊 Stats
 
