@@ -1,4 +1,4 @@
-## About
+## ◼ About
 Im a Front End Developer (I'm learning about Databases, Routing, APIs so i can become a full stack web developer) I love learning new things and learning things from others
 
 ## 📊 Stats
