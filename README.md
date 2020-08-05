@@ -1,5 +1,5 @@
 ## ◼ About
-Im a Front End Developer (I'm learning about Databases, Routing, APIs so i can become a full stack web developer) I love learning new things and learning things from others
+Hi, Im a Front End Developer (I'm learning about Databases, Routing, APIs so i can become a full stack web developer) I love learning new things and learning things from others, everyday i learn something new and i never stop learning 
 
 ## 📊 Stats
 
