@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benno van Dorst</h1>
 <h3 align="center">Hi, Im a Front End Developer (I'm learning about Databases, Routing, APIs so i can become a full stack web developer) I love learning new things and learning things from others, everyday i learn something new and i never stop learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bennocraft" alt="bennocraft" /> </p>
-
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="50">
 - 🔭 I’m currently working on [Cable](https://github.com/BennoCraft/Cable)
 
 - 🌱 I’m currently learning **to create discord bot**
