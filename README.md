@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://dev.to/bennocraft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bennocraft" height="30" width="30" /></a>
 <a href="https://twitter.com/em0cracker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="em0cracker" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/benno van dorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benno van dorst" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/benno-van-dorst-1209401a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benno van dorst" height="30" width="30" /></a>
 <a href="https://fb.com/benno van dorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benno van dorst" height="30" width="30" /></a>
 <a href="https://instagram.com/bennovandorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bennovandorst" height="30" width="30" /></a>
 </p>
