@@ -28,7 +28,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bennocraft&repo=snake.bat-game)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bennocraft&JavaScript-Clock)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bennocraft&repo=JavaScript-Clock)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://dev.to/bennocraft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bennocraft" height="30" width="30" /></a>
