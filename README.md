@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Almost everything!**
 
-- 🤝 I’m looking for help with **I'll help with whatever i can just contact ,e**
+- 🤝 I’m looking for help with **I'll help with whatever i can just contact me!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BennoCraft](https://github.com/BennoCraft)
 
