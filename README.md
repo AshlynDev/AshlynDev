@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **info@bennocraft.net**
 
-- ⚡ Fun fact **I love talking to people, although I'm very awkward**
+- ⚡ Fun fact **I can sometimes be very energetic**
 
 
 
