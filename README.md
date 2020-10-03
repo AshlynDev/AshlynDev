@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cable](https://github.com/BennoCraft/Cable)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on **Almost everything!**
 
