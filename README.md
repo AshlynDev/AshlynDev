@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bennocraft" alt="bennocraft" /> </p>
 
-- 🔭 I’m currently working on [Cable](https://github.com/Cable-Development-Team/Cable-Bot)
+- 🔭 I’m currently working on [Bennocraft Network](https://github.com/bennocraft)
 
 - 🌱 I’m currently learning **German, French**
 
