@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="50"> Hi 👋, I'm Benno van Dorst</h1> 
+<h1 align="center"> <img src="pfp.png" width="50"> Hi 👋, I'm Benno van Dorst</h1> 
 <h3 align="center">Hi, Im a Full Stack Developer I love learning new things and learning things from others, everyday i learn something new and i never stop learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bennocraft" alt="bennocraft" /> </p>
