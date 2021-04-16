@@ -1,8 +1,6 @@
 <h1 align="center"> <img src="pfp.png" width="50"> Hi 👋, I'm Benno van Dorst</h1> 
 <h3 align="center">Hi, Im a Full Stack Developer I love learning new things and learning things from others, everyday i learn something new and i never stop learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bennocraft" alt="bennocraft" /> </p>
-
 - 🔭 I’m currently working on [Bennocraft Network](https://github.com/bennocraft)
 
 - 🌱 I’m currently learning **German, French**
