@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **German, French**
 
-- 👯 I’m looking to collaborate on **Almost everything!**
+- 👯 I’m looking to collaborate on [ForkMC](https://github.com/ForkMC)
 
 - 🤝 I’m looking for help with **I'll help with whatever i can just contact me!**
 
