@@ -74,4 +74,3 @@
 <a href="https://www.facebook.com/benno.vandorst/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benno van dorst" height="30" width="30" /></a>
 <a href="https://instagram.com/bennovandorst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bennovandorst" height="30" width="30" /></a>
 </p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@BennovanDorst" frameborder="0"></iframe>
