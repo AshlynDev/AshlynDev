@@ -1,6 +1,12 @@
 <h1 align="center"> <img src="pfp.png" width="50"> Hi 👋, I'm Benno van Dorst</h1> 
 <h3 align="center">Hi, Im a Full Stack Developer I love learning new things and learning things from others, everyday i learn something new and i never stop learning.</h3>
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/Laptop-ASUS-informational?style=flat&logo=asus&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/Mobile-Apple-informational?style=flat&logo=apple&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=00aaff)
+
 - 🔭 I’m currently working on [Bennocraft Network](https://github.com/bennocraft)
 
 - 🌱 I’m currently learning **German, French**
