@@ -7,6 +7,8 @@
 ![](https://img.shields.io/badge/Mobile-Apple-informational?style=flat&logo=apple&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=00aaff)
 
+> Epic Admin at [listcord.net](https://listcord.net)
+
 - 🔭 I’m currently working on [Bennocraft Network](https://github.com/bennocraft)
 
 - 🌱 I’m currently learning **German, French**
