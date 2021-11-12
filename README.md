@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="pfp.png" width="50"> Hi 👋, I'm Ashlyn</h1> 
+<h1 align="center"> Hi 👋, I'm Ashlyn</h1> 
 <h3 align="center">Network Manager and Maintainer @ van Dorst Hosting</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=00aaff)
