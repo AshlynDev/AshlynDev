@@ -8,8 +8,6 @@
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=00aaff)
 
 > Check out my website! [ashlyn.nl](https://ashlyn.nl)
-> 
-> Admin at [listcord.net](https://listcord.net)
 
 - 🔭 I’m currently working on [van Dorst Hosting](https://github.com/vanDorst)
 
