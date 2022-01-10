@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Mobile-Apple-informational?style=flat&logo=apple&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=00aaff)
 
-> [ashlyn.nl](https://ashlyn.nl)
+> Check out my website! [ashlyn.nl](https://ashlyn.nl)
 
 > Admin at [listcord.net](https://listcord.net)
 
