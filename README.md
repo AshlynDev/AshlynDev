@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Ashlyn</h1> 
-<h3 align="center">Network Manager and Maintainer @ van Dorst Hosting</h3>
+<h3 align="center">Trial Dev @ [The Last BlockBender](https://thelastblockbender.com)</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/CodeEditor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00aaff)
@@ -8,8 +8,6 @@
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=00aaff)
 
 > Check out my website! [ashlyn.nl](https://ashlyn.nl)
-
-- 🔭 I’m currently working on [van Dorst Hosting](https://github.com/vanDorst)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashlyndev)](https://github.com/anuraghazra/github-readme-stats)
 
