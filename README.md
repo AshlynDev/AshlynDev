@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Ashlyn</h1> 
-<h3 align="center">Trial Dev @ The Last BlockBender</h3>
+<h3 align="center">Owner of The Wonder Server & Trial Dev @ The Last BlockBender</h3>
 
 > Check out my website! [ashlyn.nl](https://ashlyn.nl)
 
