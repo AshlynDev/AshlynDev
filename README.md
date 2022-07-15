@@ -8,4 +8,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashlyndev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Thanks for stopping by ![](https://i.imgur.com/A6MxugZ.png)
+Thanks for stopping by
+
+![](https://i.imgur.com/A6MxugZ.png)
